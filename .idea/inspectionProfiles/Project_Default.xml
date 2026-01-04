@@ -1,0 +1,82 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <list>
+          <option value="whitenoise" />
+          <option value="uvicorn" />
+          <option value="crispy-bootstrap5" />
+          <option value="django-import-export" />
+          <option value="django-admin-sortable" />
+          <option value="django-nested-inline" />
+          <option value="django-nested-admin" />
+          <option value="django-log-request-id" />
+          <option value="pysftp" />
+          <option value="weasyprint" />
+          <option value="drf-spectacular" />
+          <option value="watchgod" />
+          <option value="sphinx" />
+          <option value="sphinx-autobuild" />
+          <option value="pytz" />
+          <option value="python-slugify" />
+          <option value="Pillow" />
+          <option value="argon2-cffi" />
+          <option value="redis" />
+          <option value="hiredis" />
+          <option value="celery" />
+          <option value="django-celery-beat" />
+          <option value="flower" />
+          <option value="django" />
+          <option value="django-environ" />
+          <option value="django-model-utils" />
+          <option value="django-allauth" />
+          <option value="django-crispy-forms" />
+          <option value="django-redis" />
+          <option value="djangorestframework" />
+          <option value="django-cors-headers" />
+          <option value="django-filer" />
+          <option value="django-solo" />
+          <option value="django-filter" />
+          <option value="drf-nested-routers" />
+          <option value="django-extensions" />
+          <option value="django-admin-rangefilter" />
+          <option value="django-admin-env-notice" />
+          <option value="qrcode" />
+          <option value="cryptography" />
+          <option value="reportlab" />
+          <option value="svglib" />
+          <option value="Werkzeug" />
+          <option value="ipdb" />
+          <option value="psycopg2" />
+          <option value="sentry-sdk" />
+          <option value="mypy" />
+          <option value="django-stubs" />
+          <option value="pytest" />
+          <option value="pytest-sugar" />
+          <option value="djangorestframework-stubs" />
+          <option value="flake8" />
+          <option value="flake8-isort" />
+          <option value="coverage" />
+          <option value="black" />
+          <option value="pylint-django" />
+          <option value="pylint-celery" />
+          <option value="pre-commit" />
+          <option value="factory-boy" />
+          <option value="django-debug-toolbar" />
+          <option value="django-coverage-plugin" />
+          <option value="pytest-django" />
+          <option value="pytest-factoryboy" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

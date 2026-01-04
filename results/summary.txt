@@ -1,0 +1,4 @@
+ReLU_lr0.001_2Conv: Test Accuracy = 0.9058
+ReLU_lr0.0001_2Conv: Test Accuracy = 0.8596
+LeakyReLU_lr0.001_2Conv: Test Accuracy = 0.9111
+ReLU_lr0.001_1Conv: Test Accuracy = 0.9141
